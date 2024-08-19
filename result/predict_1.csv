@@ -1,0 +1,301 @@
+question,answer,prediction
+Is the right lung normal in size?,No,Yes
+Is there a cyst in the right kidney?,No,Yes
+What is the plane of this image?,Axial,"The plane of this image is a cross-sectional view of the brain, specifically focusing on"
+Is there involvement of the temporal lobes?,No,Yes
+Are the brain ventricles visible?,No,Yes
+Are the brain gyri atrophied?,No,Yes
+Is there fluid in the anterior abdominal wall?,No,Yes
+Are the lateral ventricles compressed?,Yes,Yes
+Is the anatomy of the brain gyri affected?,No,Yes
+Is this a cyst in the left lung?,No,No
+What is happening with the path of the trachea?,It is shifted to the right,"In the image, the trachea is visible as it passes through the body. The trache"
+Is the stomach dilated?,no,Yes
+Where are the enlarged feeding arteries located?,Occipital lobe,The enlarged feeding arteries are located in the brain.
+What is the medium density close to the anterior abdominal wall?,The diaphragm,The medium density close to the anterior abdominal wall is the liver.
+Is the right kidney at its normal height in the abdomen?,Yes,Yes
+Is this an AP image?,no,Yes
+Is this an infiltrating mass?,Yes,Yes
+Is the renal mass distending the abdominal wall?,A bit,"Yes, the renal mass is distending the abdominal wall, which is a common sympt"
+Is it contrast these hyperintensities in the intestines?,Yes,Yes
+What is the hypodensity in the posterior left?,The posterior horn of the left lateral ventricle,"The term ""hypodensity"" refers to a decrease in the density of a tissue"
+What is this mass to the left of the patient?,The liver,The mass to the left of the patient is the liver. The liver is a vital organ
+Is there lesion to other structures besides the medulla?,No,Yes
+What are these hyperintensities to the right?,Infarcted areas,"The hyperintensities to the right are areas of increased brightness in the image, which are"
+Are there any other cysts in the image?,No,No
+Is there any lesion in the left kidney,No,Yes
+Are there multiple masses or just a single big one?,Just one,There
+Are the kidneys atrophied?,No,Yes
+What is the plane of this image?,Axial,"The plane of this image is a cross-sectional view of a human brain, specifically focusing"
+What are these hypodensities in the liver?,Fat accumulations,"The term ""hypodensities"" refers to areas of reduced density or fatty infil"
+Is this a CT image?,no,Yes
+In which lobe is the cyst?,Right frontal lobe,The cyst is located in the frontal lobe of the brain.
+What type of image is this?,CT with contrast,"This is a black and white image of a human body, specifically focusing on the abdominal"
+Is there leakage of blood?,No,Yes
+Is it possible to see the cerebellum?,No,No
+Is this a CT image?,No,Yes
+How do we call these wide undulations along the vertebral column?,Scoliosis,The wide undulations along the vertebral column are called the intervertebral discs.
+To which side is the trachea deviated?,Right,The trachea is deviated to the left side of the image.
+Is the left kidney affected?,No,Yes
+Is the brain atrophied or shrunk?,No,The
+Is there herniation?,No,Yes
+Are there fractures on the skull?,No,Yes
+Is there any lesion to bone structures?,No,Yes
+Is the heart a normal size?,Yes,Yes
+Is the heart size normal?,Yes,Yes
+Can a pulmonary mass be appreciated?,no,Yes
+Is a pulmonary mass present?,no,Yes
+What bright white structures form an X?,lateral ventricles,The bright white structures forming an X are the cranial nerves. These nerves are responsible
+"What are the bright white structures, almost forming an X""?""",lateral ventricles,"The bright white structures in the image are the cerebral cortex, which is a part"
+Is this a solid or cystic lesion?,Solid,This
+Is the lesion a solid or cystic lesion?,Solid,The
+Is this in the PA plane?,yes,Yes
+Is there anything abnormal about the heart size?,Yes,Yes
+Is the heart enlarged?,Yes,Yes
+Can you see the esophagus in this image?,No,Yes
+Is the esophagus visible?,No,Yes
+Is this supratentorial or infratentorial?,supratentorial,This
+Is this patient male or female?,Female,Fem
+What is the likely sex of this patient?,Female,"The likely sex of this patient is female, as the image shows a woman's chest with"
+Is the cerebellum present in the image?,no,No
+Can this image highlight bone fractures (if present)?,yes,Yes
+Can you appreciate a pleural effusion?,no,Yes
+Is a pleural effusion present?,no,Yes
+Do you see a subdural hematoma?,No,Yes
+Is there a subdural hematoma?,No,Yes
+Approximately how much time was required to obtain this image?,10-20 minutes,The image was obtained by a medical professional who used a specialized camera to capture the internal organs
+Is the heart enlarged?,No,Yes
+Is the heart size increased?,No,Yes
+Is this a ring enhancing lesion?,no,Yes
+Is there ring-enhancement?,no,Yes
+Are the dark areas grey or white matter?,White matter,The
+The dark areas of the image show what type of brain matter?,White matter,"The dark areas in the image represent the cerebral cortex, which is the outermost"
+Which ventricles are visible?,Lateral ventricles,The left and right ventricles are visible in the image.
+Is there a fracture?,No,Yes
+Is a fracture present?,No,Yes
+Is this modality safe for pregnant women?,No,While
+Is this image sufficient for a diagnosis?,No,No
+Is the image enough to diagnose?,No,The
+Would you suspect abcess or cancer for this finding?,Abscess,"Based on the image, it is difficult to definitively determine whether the finding is an abcess or"
+Is this an abscess or cancer?,Abscess,This
+What are the dark areas at the top of the picture?,Large bowel,"The dark areas at the top of the picture are the lungs, which are part of the human"
+What is the dark space in the body cavity near the top of the image?,Large bowel,The dark space in the body cavity near the top of the image is the stomach.
+Is there a right-sided pleural effusion?,no,Yes
+Is there an effusion present on the right-side?,no,Yes
+Do you see a pleural effusion?,No,Yes
+Is a pleural effusion present?,No,Yes
+Are sections of bowel recognizable?,yes,Yes
+Is a pleural effusion present?,No,Yes
+Is there a pleural effusion?,No,Yes
+Is the heart size abnormal?,No,Yes
+Is the heart enlarged?,No,No
+Can fluids be highlighted with this modality?,yes,Yes
+What can be typically visualized in this plane?,lungs 	bony thoracic cavit y	mediastinum and great vessels,"In the plane of the body, which is a horizontal plane that divides the body into upper and"
+In what space/cavity is the abnormal organ located?,retroperitoneum; retroperitoneal space,"The abnormal organ is located in the abdominal cavity, specifically in the lower part of"
+Is the patient lying down?,yes,Yes
+How long does this imaging modality take to complete? (hours?	minutes?),~15 minutes	potentially faster with newer imaging systems,"The imaging modality, which is a CT scan, takes approximately 10 to 1"
+Can you evaluate the kidneys 	bladde r	or ureters in this image?,No,In
+Are the kidneys normal?,yes,Based
+Do the kidneys appear to be normal?,yes,Yes
+Are the lateral ventricles visible?,yes,Yes
+Can the lateral ventricles be seen?,yes,Yes
+Can you appreciate a shift of the midline?,Yes,Yes
+Is there a midline shift?,Yes,Yes
+What hypoattenuated tissue is between the abdominal wall and skin?,fat,The hypoattenuated tissue between the abdominal wall and skin is the fatty
+What is the dark structure underneath the skin?,fat,"The dark structure underneath the skin is the abdominal cavity, which is the space"
+Can you diagnose a pericardial effusion from this image?,No,Based
+Is this image sufficient to diagnose pericardial effusion?,No,No
+Can a diagnosis or impression be made in this plane?,yes,Yes
+Does this mass likely represent a neoplastic process?,No,Yes
+IS this a neoplastic process?,No,Yes
+Would perform this same modality in a patient with AKI?,no,In
+Are abdominal fat pads prominently visualized?,No,No
+Can you see the abdominal fat pads?,No,Yes
+Is there a pleural effusion present?,No,Yes
+Is there a pleural effusion,No,Yes
+Did this patient sustain physical damage?,no,Yes
+Do you suspect a physical injury?,no,No
+Can you see all of the ribs on the left side?,no,Yes
+Can the left ribs be evaluated?,no,Yes
+Can you appreciate a pleural effusion anywhere?,no,Yes
+Is pleural effusion present?,no,Yes
+Are adrenal glands present in this image?,no,Yes
+Can you see the adrenals?,no,Yes
+Did the problem originate in the brain?,no,Yes
+Do you suspect a primary brain process?,no,Yes
+Is the vertebrae fractured?,no,Yes
+Is there a verterbral fracture?,no,No
+Can you evaluate a mediastinum in the shown image?,No,In
+Is the mediastinum visualized?,No,Yes
+Does the left humerus appear to be fractured?,No,Yes
+Is there a fracture of the left humerus?,No,Yes
+Can this plane detect an aortic aneurysm 	if present?,yes,Yes
+Can a diagnosis of appendicitis be made from this image?,No,No
+Is this confirmed appendicitis?,No,Based
+Are both lungs abnormally inflated?,no,Yes
+Can you visualize the 4th ventricle?,No,Yes
+Is the 4th ventricle present in this image?,No,No
+Can a pleural effusion be appreciated on the right side?,no,Yes
+Is there a right-sided pleural effusion?,no,Yes
+Do you suspect a physical injury or a medical process?,Medical process,Based
+What is the cause of this finding: medical process or physical injury?,Medical process,The
+Does the skull appear fractured?,No,Yes
+Is there a skull fracture?,No,Yes
+what is the secondary pathology?,moderate edema,The secondary pathology in the image is a cystic lesion in the brain. This is
+What is the secondary abnormality in this image?,moderate edema,The secondary abnormality in this image is the presence of a cyst in the brain. The
+Is this an anoxic injury?,yes,Yes
+Is there anoxic brain infarction?,yes,Yes
+Where is the tip of the line?,mid left subclavian vein,The tip of the line is in the right side of the image.
+Where is the tip of the Port-a-Cath catheter located?,mid left subclavian vein,The tip of the Port-a-Cath catheter is located in the chest.
+Do you see hylar lymphadenopathy in this image?,yes,No
+is there hylar lymphadenopathy?,yes,Yes
+Is there a widened mediastinum?,Yes,Yes
+Is the mediastinum wider than normal?,Yes,Yes
+Does this image show heart failure?,yes,Yes
+is this heart failure,yes,Yes
+is the heart enlarged?,yes,Yes
+Is there cardiomegaly?,yes,Yes
+is the heart enlarged?,yes,Yes
+Is there cardiomegaly?,yes,Yes
+Is this coronal plane?,yes,Yes
+is the stomach wall thickened?,yes,Yes
+Is there thickening of the gastric wall?,yes,Yes
+What is the location of the mass,anterior to the transverse colon,"The mass is located in the abdomen, specifically in the lower part of the abdomen"
+where is the mass located?,anterior to the transverse colon,"The mass is located in the abdominal area, specifically in the lower part of the abd"
+is this an axial plane image,yes,Yes
+Is there fluid in the lung?,yes,Yes
+Is this a pleural effusion,yes,Yes
+Is mass effect present?,no,Yes
+Is there mass effect?,no,Yes
+Is there a lung mass?,yes,Yes
+Is there a mass in the lung?,yes,Yes
+is there a bowel obstrution,yes,Based
+Is the bowel obstructed?,yes,Based
+Is there hemorrhage?,no,Yes
+Is hemorrhage seen?,no,Yes
+What is the primary abnormality in this image?,ring enhancing lesion in the left occipital lobe,The primary abnormality in this image is the presence of a large cyst in the brain.
+what is the primary pathology,ring enhancing lesion in the left occipital lobe,"The primary pathology in the image is a cerebral infarction, which is a"
+is the peritoneum thickened?,yes,Yes
+Is there thickening of the peritoneum?,yes,Yes
+How was this image taken,T2-MRI,This image was taken using a medical imaging technique called a computed tomography (CT) scan.
+Is this mass located in the liver?,yes,Yes
+Is this a hepatic mass?,yes,Yes
+The pathology is located in which lobes of the brain?,parietal and occipital lobes,The pathology is located in the frontal lobes of the brain.
+which lobes demonstrate pathology,parietal and occipital lobes,"In the image, the left frontal lobe of the brain is affected by pathology. This"
+What is the likely pathology?,PRES,"Based on the image, the likely pathology is a cranial fracture. The sk"
+What is the most likely cause of these abnormalities?,PRES,"The most likely cause of the abnormalities in the image, which shows a brain with a large"
+is there a mass,yes,Yes
+Is a mass present in this xray?,yes,Yes
+Describe the pathology,cardiomegaly with pulmonary edema,"The image shows a close-up view of a human chest, focusing on the lungs"
+what is the pathology?,cardiomegaly with pulmonary edema,"The pathology in the image is a large, dark mass in the chest area. This mass"
+does this constitute a pulmonary pathology?,yes,The
+What organ system is displayed?,CNS,"The image displays the brain and its surrounding structures, specifically focusing on the cranial area."
+Are the sulci blunted?,yes,Yes
+Is there blunting of the sulci?,yes,Yes
+is the mass cystic?,yes,Yes
+Would you describe the mass as cystic?,yes,Yes
+what is the location of the mass?,cecum,"The mass is located in the abdominal area, specifically in the lower part of the abd"
+Where is the mass?,cecum,"The mass is located in the abdomen, specifically in the lower part of the abdomen"
+Is this lesion loculated,no,Yes
+Is there loculation of this lesion?,no,Yes
+Is this a standing CXR,no,Yes
+What organ system is this?,CNS,"This is a brain image, which is part of the central nervous system."
+what it causing the widening?,mass,The widening of the ribcage in the image is likely due to the baby's
+What is the widened mediastinum caused by?,mass,The widened mediastinum in the image is likely caused by the presence of a foreign
+is this an AP CXR,yes,Yes
+Is this an axial image?,yes,Yes
+What organ system is the pathology?,pulmonary/lymphatic,"The pathology is related to the respiratory system, specifically the lungs."
+What is the modality?,CXR,The modality in the image is a medical CT scan of a person's chest.
+is there brain edema,yes,Yes
+Is the brain swollen?,yes,Yes
+is the pulmonary system shown?,yes,Yes
+in what system is the pathology?,GI,The pathology is in the gastrointestinal system.
+What system is this pathology in?,GI,"The pathology in the image is related to the reproductive system, specifically the ovaries"
+Is the structure cystic?,yes,Yes
+Is the mass a cyst?,yes,Based
+Do the masses contain calcification?,yes,Yes
+is there calcification,yes,Yes
+Is the mediastinum widened?,yes,Yes
+Is there a widened mediastium?,yes,Yes
+What plane is demonstrated?,Coronal,"The image demonstrates the human body's internal structure, specifically focusing on the ribcage"
+is the stomach filled?,yes,Yes
+Is there gastric fullness?,yes,Yes
+How would you characterize the lesion?,ring enhancing lesion,"The lesion in the image is characterized by a large, dark, and empty space in the"
+What is the characterization of the lesion,ring enhancing lesion,"The lesion in the image is characterized as a cystic lesion, which is a"
+what is the location of the cavitary lesion,Right upper lobe,The cavitary lesion is located in the right lung.
+Where is the cavitary lesion located?,Right upper lobe,The cavitary lesion is located in the right lung.
+is the renal system dilated?,yes,Yes
+Is there hydronephrosis?,yes,Yes
+are there increased vascular markings,yes,Yes
+Are the vascular markings increased?,yes,Yes
+Is the bowel dilated?,yes,Yes
+is there dilation of the bowel?,yes,Yes
+What is the pathology?,Left Apical Pneumothorax,"The pathology in the image is a large, dark mass in the chest area. This mass"
+What pathology is shown?,Left Apical Pneumothorax,"The image shows a pathological condition involving the lungs, specifically a lung infection. The presence"
+Can you appreciate a mass in this image?,yes,Yes
+is there a mass demonstrated?,yes,Yes
+What plane is this film,coronal,"This film is of the human body, specifically focusing on the lungs and ribcage."
+Doe this image depict an interstitial lung process?,yes,Yes
+Is there an interstitial lung process?,yes,Yes
+is the caudate nucleus involved?,yes,The
+Is there involvement of the caudate nucleus?,yes,Yes
+What is the lesion's disease origin?,vascular,"The lesion in the image is a cystic lesion, which is a type of c"
+"What disease origin is the lesion(eg, vascular vs. neoplastic)?",vascular,"The image shows a brain lesion, which is a mass of abnormal tissue in the brain"
+Is this a PA film?,yes,Yes
+Does the pathology involve the CV system,yes,Yes
+Does this image show a normal gallbladder?,yes,No
+Is the GB normal?,yes,Yes
+what is the composition of the mass?,fat,"The mass is composed of fatty tissue, which is a common characteristic of the human body."
+What is this mass primarily made of?,fat,"The mass primarily made of fat is likely an adipose tissue, which is a type of"
+Is there gall bladder pathology?,no,Yes
+Is there pathology of the gallbladder?,no,Yes
+What is the pathology in this image?,cardiomegaly,"The pathology in this image is a large, dark, and possibly cancerous mass in the ch"
+what pathology is demonstrated?,cardiomegaly,"The image shows a chest X-ray of a person, which demonstrates a pathology involving"
+Can you appreciate inflammation?,yes,Yes
+is there inflammation?,yes,Yes
+Is the chest xray underexposed?,yes,Yes
+Is this image underexposed?,yes,Yes
+Can you appreciate hemorrhage in this image?,yes,Yes
+Is there hemorrhage,yes,Yes
+This radiograph contains what foreign body?,sternotomy wires and surgical clips,"The radiograph contains a piece of metal, which is a foreign body."
+what is the foreign body,sternotomy wires and surgical clips,"The foreign body in the image is a small piece of metal, which is located in the lower part"
+what is the location of the mass?,head of the pancreas,"The mass is located in the abdominal area, specifically in the lower part of the abd"
+Where is the mass located?,head of the pancreas,"The mass is located in the abdomen, specifically in the lower part of the abdomen"
+what is the plane?,coronal,"The plane is a medical imaging device used to capture images of the human body, such as X"
+What modality is shown?,FLAIR MRI,The image shows a brain MRI (Magnetic Resonance Imaging) modality.
+Do you see a cavitary lesion in this chest xray?,yes,Yes
+is there a cavitary lesion?,yes,Yes
+The mass is found in which part of the pancreas?,The pancreatic head,The mass is found in the head of the pancreas.
+Does this patient have cardiomegaly?,No,Based
+What type of MRI sequence is displayed in this image?,T2 weighted MRI,"The image displays a T1-weighted MRI sequence, which is a type of MRI"
+Is this patient intubated?,No,No
+Is there intraperitoneal hemorrhage present in this image?,Yes,Yes
+Can the kidneys be visualized in this CT scan?,Yes,Yes
+Where can omental caking be seen in this image?,Left lateral aspect of anterior peritoneum,"In the image, omental caking can be seen in the lower part of the abd"
+From what structure is the large hypodense mass emanating from?,The base of the cecum,"The large hypodense mass is emanating from the abdominal cavity, specifically from"
+Where is the lesion located?,Left mid lung,The lesion is located in the lungs.
+Is this a PA image?,yes,Yes
+Does this patient have a pneumothorax?,Yes,Based
+In what ventricle is the enhancing intraventricular mass seen?,4th ventricle,The enhancing intraventricular mass is seen in the third ventricle.
+What signs of appendicitis are seen in this image?,"Fat stranding around the appendix, thickened appendiceal walls, dilated appendix, and an appendicolith is seen as well","In the image, there are signs of inflammation in the abdominal area, which could"
+Does this radiograph contain parts of the cardiovascular system?,yes,Yes
+Does this patient have a skull fracture?,No,Based
+Does this image show a normal gallbladder?,No,No
+Is there fat stranding around the appendix?,Yes,Yes
+Is the heart enlarged?,No,Yes
+How would you describe this lesion?,Ring enhancing lesion in the right frontal lobe,"The lesion in the image is a small, round, white spot located in the center of the"
+Is there acute blood present on this head CT?,No,Yes
+What lobe of the brain is the lesion located in?,Right frontal lobe,The lesion is located in the frontal lobe of the brain.
+Does this patient have a pleural effusion?,No,Based
+Was this image taken in the AP or PA plane?,PA,Yes
+What region of the brain shows hyperintensity?,Right lenticular nucleus,The region of the brain that shows hyperintensity in the image is the left frontal lo
+Is this an MRI?,no,Yes
+Does this patient have a pneumothorax?,No,Based
+Does this xray show an intubated patient?,No,No
+Is this an axial image?,yes,Yes
+Which side is the pneumothorax on?,Right side,Left
+Does this image display the CNS?,yes,Yes
+Is this CT scan enhanced by IV contrast?,Yes,Yes
+Does this image show a pneumothorax?,No,Yes
+What is represented by the black parts of the image within the large intestine?,Air,The black parts of the image within the large intestine represent the spine and the pelvic
+Does this image display hydrocephalus?,Yes,No

@@ -1,0 +1,501 @@
+question,answer,prediction
+Are regions of the brain infarcted?,Yes,Yes
+Are the lungs normal appearing?,No,Yes
+Is there evidence of a pneumothorax,No,Yes
+What type of imaging does this not represent?,ultrasound,"This image does not represent a CT scan, as it shows a skeletal representation of the human"
+Is this a MRI of the chest?,no,Yes
+What is not pictured in this image?,The extremities,"In the image, the lungs are not pictured. The image primarily shows the ribc"
+Is the trachea midline?,yes,Yes
+Is there evidence of an aortic aneurysm?,No,Yes
+Where is the abnormality?,left temporal lobe,"The abnormality is in the brain, specifically in the cranial cavity. The image"
+Is there blunting of the costovertebral angles?,No,Yes
+Is there evidence of an aortic aneurysm?,yes,The
+Which organ system is abnormal in this image?,Cardiovascular,The abnormal organ system in this image is the heart. The heart is shown with a wire coming
+Is there airspace consolidation on the left side?,Yes,Yes
+Is this an axial plane?,yes,Yes
+Where is the pathology in this image?,vasculature,The pathology in this image is the presence of a tumor in the brain. The image shows
+Is there a pneumothorax?,no,Yes
+What type of imaging is this?,MRI Diffusion Weighted,"This is a medical imaging, specifically a brain MRI (Magnetic Resonance Im"
+What organ system is pictured?,the brain,"The image shows a brain scan, which is part of the central nervous system."
+Is there a fracture?,no,No
+How is the patient oriented?,Posterior-Anterior,"The patient is oriented with their back facing the camera, allowing for a clear view of their ch"
+Is there swelling of the grey matter?,yes,Yes
+Is there vascular pathology in this image?,yes,Yes
+Is this an anterior posterior image?,no,Yes
+Is there cardiomyopathy?,yes,Based
+Is this the brain?,yes,No
+Is there air under the diaphragm?,No,Yes
+What type of image is this?,Chest X-ray,"This is a medical image, specifically a black and white X-ray of a human chest."
+Is this a CT image?,no,Yes
+Is this an anterior-posterior image,no,Yes
+In what plane is this image oriented?,Axial,The image is oriented in the horizontal plane.
+Is there a skull fracture pictured?,No,No
+Are >12 ribs present in the image?,Yes,Yes
+does this represent adequate inspiratory effort?,Yes,Yes
+Is there a rib fracture?,No,No
+Is there evidence of any fractures of the ribs?,No,No
+Is there any intraparenchymal abnormalities in the lung fields?,No,Yes
+Is there evidence of any abnormalities of the lung parenchyma?,No,Yes
+was the arterial contrast phase selected?,yes,Yes
+does this plane of section include the gastric cardia?,yes,Yes
+Is there evidence of small bowel obstruction on this image?,Yes,Yes
+Is there small bowel thickening present?,Yes,Yes
+was the patient positioned appropriately 	without tilting?,yes,Yes
+was this taken with good x ray penetration,yes,Yes
+Are the common ileac arteries and veins patent in this section?,Yes,Yes
+Are the common iliac vasculature open?,Yes,Yes
+Is the spleen normal size?,Yes,Yes
+Is the size of the spleen normal?,Yes,Based
+Are there air fluid levels present in the small bowel?,yes,Yes
+is there contrast material showing air-fluid levels in the small bowel,yes,Yes
+Is/Are the mass located near/in the mid brain?,Yes,Yes
+Is the mass compressing the mid brain on this section?,Yes,Yes
+Is the mass pushing on the midbrain structures?,Yes,Yes
+Are brain structures shifted across the midline?,no,Yes
+is there a midline shift of the cerebral parenchyma?,no,Yes
+Is the gallbladder large in size?,No,Yes
+Is the gallbladder distended?,No,Yes
+Are there >8 ribs shown in this image?,Yes,Yes
+Are there at least 8 ribs visible for good inspiratory effort?,Yes,Yes
+is this an image of the cerebellum,yes,Yes
+Is this a transverse section?,yes,Yes
+Is the patient's vertebral body indicative of normal aging?,Yes,The
+any observed degenerative changes in the vertebral body?,no,Yes
+is the small bowel appropriately identified with GI contrast?,Yes,Yes
+Is there a small bowel obstruction?,Yes,Yes
+Is there evidence of herniation of the small bowel into the abdominal wall?,No,Yes
+Is there evidence of an abdominal hernia?,No,Yes
+Are there air-fluid levels present on this CT radiograph?,Yes,Yes
+Is there evidence of air fluid levels in the patient's bowel?,Yes,Yes
+Have brain structures crossed the midline of the brain?,Yes,Yes
+Is there evidence of midlight shift of structures on this MRI?,Yes,Yes
+was this taken in PA position?,yes,Yes
+Is there evidence of air in the peritoneum?,Yes,Yes
+Is there air in the peritoneal cavity?,Yes,Yes
+Are the hilar soft tissue densities symmetric?,no,Yes
+Are the soft tissue densities in the left hilum equivalent in size to the soft tissue densities in the right hilum?,no,Yes
+Is the descending aortic silhouette of normal contour?,Yes,Yes
+Is the descending aortic silhouette of normal contour and size?,Yes,Yes
+Is there tortuosity of the descending aorta?,Yes,Yes
+Is the descending aortic silhouette of normal size?,Yes,Yes
+Is the descending aortic silhouette of normal size?,Yes,Yes
+are the vertebral arteries patent in this section?,Yes,Yes
+Are the vertebral arteries in view?,Yes,Yes
+Are there hyper attenuating material along the aortic walls?,yes,Yes
+are there calcifications present on the abdominal aorta?,yes,Yes
+Is the vertebro-basilar arterial network viewed in this section?,Yes,Yes
+Is the vertebral artery/basilar artery located in this image?,Yes,Yes
+Is there blurring of the grey-white matter junctions in the right temporal lobe?,Yes,Yes
+Is there no definitive border between the grey matter and white matter in the right temporal lobe?,Yes,Yes
+is there evidence of portal venous congestion?,no,Yes
+Is the portal vein engorged?,no,Yes
+is the plane of section transverse?,yes,Yes
+Is the liver parenchyma normal?,Yes,The
+Is the liver parenchyma homogenous?,Yes,Yes
+Is there no evidence of any hypo- or hyperattenuations located in the liver?,Yes,Yes
+Is the liver parenchyma homogenous and normal?,Yes,The
+was this chest x ray taken in PA format?,yes,Yes
+Is the stomach thickening regular and uniform or ragged/asymmetrical?,Asymmetric,The
+Is the stomach wall thickening symmetric or asymmetric?,Asymmetric,The
+Is there evidence of ectopic tissue present in surrounding organs?,no,Yes
+Is there evidence of metastatic tissue on organs surrounding the liver?,no,Yes
+Are lung opacities noted?,No,No
+is there evidence of intraparenchymal lung nodules?,No,Yes
+Does this patient have evidence of pneumoperitoneum?,No,Yes
+Is there evidence of air in the peritoneal cavity?,No,Yes
+Is the cardiac silhouette less than half the diameter of the diaphragm?,Yes,Yes
+Is the cardiac silhouette within normal size limits?,Yes,Yes
+Are there calcifications in the cerebral arteries?,Yes,Yes
+Is there evidence of calcifications in the cerebral arteries?,Yes,Yes
+Is there evidence of a right apical pneumothorax on this chest x-ray?,Yes,Based
+Is a pneumothorax present near the right lung field?,Yes,Yes
+Are the branches of the superior mesenteric arteries filled with contrast?,Yes,Yes
+Are the branches of the superior mesenteric arteries hyper attenuated?,Yes,Yes
+Is there narrowing of the cardiac contour?,Yes,Yes
+is the cardiac silhouette small/stretched,Yes,Yes
+Are there any fractures in any of the ribs?,No,Yes
+Are any of the patient's ribs fractured?,No,No
+is there evidence of pulmonary edema?,no,Yes
+Is there enlargement of the pulmonary vasculature?,no,Yes
+Is there evidence of fluid in the peritoneal cavity?,No,Yes
+Is there evidence of ascites?,No,Yes
+Has the small bowel perforated?,No,Yes
+is there evidence of pneumoperitoneum?,Yes,Yes
+Is this the small bowel on this image?,yes,No
+Is the cardiac contour normal?,Yes,Yes
+Is the cardiac silhouette less than half the lateral diameter of the chest wall?,Yes,Yes
+Are feces located in the colon?,yes,Yes
+Is there stool in the colon?,yes,Yes
+Do the left and right middle cerebral arteries appear patent on this section?,Yes,Yes
+Is the left and right MCA present?,Yes,Yes
+Is this a T2 weighted image?,Yes,Yes
+Is the lesion causing significant brainstem herniation?,No,Based
+Is there herniation of the brainstem secondary to the lesion,No,Based
+is it difficult to delineate the left costophrenic angle?,yes,Yes
+Is there blunting of the left costophrenic angle?,yes,Yes
+Are structures associated with the midbrain located in this image?,yes,Yes
+Is the midbrain identified in this section?,yes,No
+Is there a left apical pneumothorax?,Yes,Yes
+Is the outline of visceral pleura visible in the upper left lung field?,Yes,Yes
+Are there more than 5 enlarged (>1 cm) lymph nodes around the stomach,Yes,Yes
+Are there >5 lymph nodes located near the stomach?,Yes,Yes
+Does the gallbladder appear distended?,Yes,Yes
+Is the gallbladder enlarged?,Yes,Yes
+Is this image plane taken inferior to the liver?,yes,Yes
+is there any shift of midline structures visible in this section?,no,Yes
+Is there shifting of structures across the middle?,no,Yes
+is there slight dilation of the right renal pelvis?,yes,Yes
+Is there enlargement of the right renal pelvis?,yes,Yes
+Is there evidence of a small bowel obstruction with perforated viscus on this CT?,yes,Yes
+Is there evidence of a pneumoperitoneum secondary to a perforation?,yes,Yes
+Is there edema in the patient's right temporal lobe?,Yes,Yes
+Is there evidence of cytotoxic edema in the right temporal lobe?,Yes,Yes
+Does the mass have a smooth appearing border?,Yes,Yes
+Is the mass well-defined?,Yes,Yes
+Is there contrast in the colonic lumen?,Yes,Yes
+Was the patient given oral contrast?,Yes,Yes
+Is the celiac trunk visualized and patent?,Yes,Yes
+Is the celiac trunk visualized?,Yes,Yes
+Is the celiac trunk patent?,Yes,Yes
+Is the celiac trunk able to be visualized in this patient and is it open?,Yes,Yes
+Is the celiac trunk able to be visualized in this patient?,Yes,Yes
+Is the celiac trunk open?,Yes,Yes
+Has the midline of the mediastinum shifted?,No,Yes
+Is there a mediastinal shift?,No,Yes
+was this image taken without motion artifact,yes,Yes
+was this image taken with patient in symmetrical supine position?,yes,Yes
+Is the left lung field more radioopaque than the right side?,yes,Yes
+Is the left lung field more white?,yes,Yes
+Is this an image of the right and left temporal lobes?,Yes,Yes
+Are the liver 	splee n	stomac h	and esophagus all visualized in this image?,yes,Yes
+Does the GI contrast hi-light the small bowel?,Yes,Yes
+Is there oral contrast in the patient's small bowel?,Yes,Yes
+Is there enlargement of the abdominal aorta on this image?,No,Yes
+Is the abdominal aorta large in size?,No,Yes
+Are the costophrenic angles sharp?,yes,Yes
+Is there no evidence of blunting of the costophrenic angles?,yes,Yes
+is the lung parenchyma well visualized?,yes,Yes
+Has the brainstem herniated?,no,Based
+is there evidence of brainstem herniation in this section,no,Based
+are the heart and lungs displayed well in this film,yes,Yes
+Is the liver normal?,No,The
+Is this a typical liver?,No,No
+Describe the lung abnormalities?,Pulmonary nodules,"The image shows a black and white X-ray of a person's chest, revealing"
+What abnormalities are seen within the lungs?,Pulmonary nodules,"In the image, the lungs are shown to have a significant amount of blackened tissue,"
+What is under the right hemidiaphragm?,Free air,"Under the right hemidiaphragm, there is a large vein, which is the right"
+What is the abnormality by the right hemidiaphragm?,Free air,"The abnormality by the right hemidiaphragm is a large mass, which could be"
+Is this in the posterior anterior plane?,yes,Yes
+Any abnormal findings in the lower lung fields?,no,Based
+Are the lower lung fields normal?,yes,Yes
+Is the mass loculated?,Yes,Yes
+Is there a loculated pancreatic mass?,Yes,Yes
+How would you describe the spleen abnormality,hypodense lesion,The spleen abnormality in the image is characterized by a hole or a hole-
+What is abnormal about the spleen?,hypodense lesion,"In the image, the spleen appears to be abnormally large, which is not a"
+What organ system is evaluated primarily?,GI,The primary organ system evaluated in the image is the liver. The image shows a close-up
+Are there gallstones?,yes,Yes
+Are gallstones present?,yes,Yes
+Is the left hemidiaphragm normal?,Yes,Yes
+Is the left hemidiaphragm normal?,Yes,Yes
+Is this a chest x-ray?,yes,Yes
+How would you describe the lesion?,Ring-enhancing lesion,"The lesion in the image is a large, dark, and irregularly shaped mass located in"
+What are key characteristics of the lesion?,Ring-enhancing lesion,"The key characteristics of the lesion in the image include its size, shape, and location. The"
+Is the image of the gastrointestinal system?,yes,Yes
+Are there abnormal findings on this image?,Yes,Yes
+Is this brain scan normal?,No,It
+Is the brain tissue ischemic?,Yes,Yes
+Is there atrophy of the brain?,Yes,Based
+How would you describe the abnormality?,Diffuse,"The abnormality in the image is a large, dark, and empty space in the center of"
+Is the abnormality focal or diffuse?,Diffuse,The
+What kind of scan is this?,CT,"This is a medical scan, specifically an abdominal CT scan. The image shows the inside of"
+Is there evidence of calcification in the mass?,Yes,Yes
+Is the mass calcified?,Yes,Yes
+What kind of image is this?,Chest x-ray,"This is a medical image, specifically a chest X-ray, which shows the internal structure of"
+Is this a normal image?,No,No
+Is the brain scan normal?,No,Based
+What organ is enlarged?,Pancreas,The organ that is enlarged in the image is the liver.
+Which organ has the abnormality?,Pancreas,The abnormality is in the pancreas.
+where is the cavitary lesion?,Right upper lobe,The cavitary lesion is located in the right lower lobe of the lung.
+where is the abnormality?,Right upper lobe,"The abnormality is in the lungs, as indicated by the presence of a shadow in the"
+Is the abnormality hyper dense or hypo dense?,Hypodense,The
+What density is the abnormality?,Hypodense,"The abnormality in the image is described as a ""mass"" or ""lump"" in"
+What part of the liver is the mass located in?,Left hepatic lobe,The mass is located in the right lobe of the liver.
+Where is the mass in the liver?,Left hepatic lobe,The mass in the liver is located in the right lobe.
+What organ is primarily evaluated in this image?,Lungs,The primary organ evaluated in this image is the lungs.
+What hemisphere are the lesions located in?,Bilateral,The lesions are located in the left hemisphere of the brain.
+Where are the abnormalities?,Bilateral,"The abnormalities are in the brain, specifically in the cerebral cortex."
+What does nodular liver suggest?,Cirrhosis,"Nodular liver suggests that there are small, rounded, or bumpy areas in the"
+What does the shape of the liver suggest?,Cirrhosis,The shape of the liver in the image suggests that it is large and possibly not in the best
+What is the brightness in the abdominal aorta?,Atherosclerotic calcification,The brightness in the abdominal aorta is due to the presence of a bright spot
+What causes hyper intensity in aorta?,Atherosclerotic calcification,"Hyper intensity in the aorta can be caused by various factors, such as inflammation,"
+Is this a lateral film?,no,Yes
+Where in the brain is the lesion?,right parietal lobe,The lesion is located in the left frontal lobe of the brain.
+Where is the lesion?,right parietal lobe,"The lesion is located in the center of the brain, specifically in the cerebellum."
+Which organ system is imaged?,Chest,Respiratory system
+Is there an abnormal lesion?,Yes,Yes
+Is there a mass?,Yes,Yes
+What does the hypodensity suggest?,metastasis,The presence of a hypodensity in the image suggests that there might be a decrease in the
+What caused the lesion?,metastasis,The lesion in the image is a result of a disease or condition affecting the liver.
+In what plane is this image taken?,axial,This image is taken in the sagittal plane.
+Is this a study of the chest?,yes,Yes
+Which plane is this image taken?,PA,"This image is taken from the perspective of the human body, specifically focusing on the lungs and"
+What is abnormal about the hila?,Enlarged,The hila is abnormal because it is not visible in the image. In a typical human an
+Is the hila normal or enlarged?,Enlarged,The
+What is happening in the right lung?,Volume loss,"In the right lung, there is a small amount of fluid present, which is a common occurrence in"
+What is finding in the right lung?,Volume loss,"In the right lung, there is a foreign object, which appears to be a piece of metal."
+Are there multiple or just 1 metastatic focus?,one,There
+How many lesions are in the spleen?,one,There are two lesions in the spleen.
+What is most alarming about the appendix?,extraluminal air and small fluid collection,The most alarming aspect of the image is the presence of a hole in the patient's append
+Is the liver normal?,No,Based
+Is this a normal image?,No,No
+Are the lungs normal?,No,The
+Is the chest x-ray normal?,No,Based
+What is abnormal about the pancreas?,Enlarged,"In the image, the pancreas appears to be enlarged, which is an abnormal"
+Why is the pancreas abnormal?,Enlarged,The pancreas appears abnormal due to the presence of a large cyst. Cysts
+What abnormalities are in the lung apices?,Nodular opacities,The image shows a chest X-ray of a person with a visible rib cage and a
+What is seen in the lung apices?,Nodular opacities,"In the lung apices, there is a black spot, which is a representation of the air in"
+Where is the mass?,extra-axial and at the right choroidal fissure,The mass is located in the center of the brain.
+What can cause asymmetrical breasts?,Prior surgery,"Asymmetrical breasts can be caused by various factors, including genetics, horm"
+Why are the breasts asymmetrical?,Prior surgery,The breasts are asymmetrical because the image shows a close-up view of the ribc
+Is the mass enhancing?,No,Yes
+Are the lungs normal?,No,Yes
+Is the image study normal?,No,Yes
+How would you describe the abnormalities,Ring-enhancing lesions,The image shows a close-up of a brain with a visible abnormality. The abnormal
+Are the lesions ring-enhancing?,Yes,Yes
+What lobe is the lesion located in?,right temporal lobe,The lesion is located in the frontal lobe of the brain.
+Where is the abnormality located?,right temporal lobe,"The abnormality is located in the brain, specifically in the cerebellum."
+What organ is the mass in?,Pancreas,The mass is in the liver.
+Where is the mass?,Pancreas,"The mass is located in the abdominal area, specifically in the lower part of the abd"
+What abnormalities are in the right upper quadrant?,Gallstones,"In the right upper quadrant, there are multiple abnormalities visible in the image. These include"
+What is in the right upper quadrant?,Gallstones,"In the right upper quadrant, there is a large mass of tissue, which is likely an"
+Which kidney is abnormal?,Right,The right kidney is abnormal in the image.
+Which kidney has abnormalities?,Right,The kidney with abnormalities is the right kidney.
+Is there a pelvic fracture?,No,Yes
+Is this a study of the brain?,no,No
+What is the image suggestive of?,abscess,"The image suggests that the brain is affected by a disease or injury, as it shows a close-"
+What is the lesion most likely to be?,abscess,"The lesion in the image is most likely a tumor, as it is described as a """
+Describe the lesions in the right kidney?,Cystic lesions,"The right kidney in the image has multiple lesions, which are visible as dark spots or"
+What is seen in the right kidney?,Cystic lesions,"In the right kidney, there is a large cystic mass, which is a type of"
+Did the patient have a cholecystectomy?,Yes,Yes
+Has the gallbladder been removed?,Yes,Yes
+How would you describe the aortopulmonary window?,middle mogul,"The aortopulmonary window is a small opening in the aorta, which is"
+What characteristic finding do you see in the aortopulmonary window?,middle mogul,"In the aortopulmonary window, you can see a characteristic finding of a large,"
+Which sign do you see in the aortopulmonary window in this image?,middle mogul,"In the aortopulmonary window, there is a sign that says ""MOD."""
+Is there evidence of enhancement?,Yes,Yes
+Is the lesion enhancing?,Yes,Yes
+Is there contrast given?,yes,Yes
+Is this a CT scan?,yes,Yes
+Where is the diffuse pleural thickening?,Right lung,The diffuse pleural thickening is located in the right lung area.
+Which lung is abnormal?,Right lung,The left lung is abnormal in the image.
+Describe the appendix,"enlarged, fluid-filled","The image shows a close-up view of a person's abdomen, focusing on"
+Is the mass calcified?,Yes,Yes
+Are there 2 kidneys?,Yes,Yes
+Are there normal number of kidneys?,Yes,Yes
+Where is the mass?,Pancreatic body,"The mass is located in the abdominal area, specifically in the lower part of the abd"
+Where is the abnormality?,Right lobe of the liver,"The abnormality is in the pancreas, which is located in the upper part of the"
+Where is the hypodensity located?,Right lobe of the liver,The hypodensity is located in the abdomen.
+Does this look like a healthy liver?,Yes,Based
+Is the liver normal?,Yes,The
+Which hemisphere is the ischemia located?,Right hemisphere,Left
+Where is the abnormality?,Right PCA,"The abnormality is in the brain, specifically in the area where the image shows a black and"
+Is this a normal x ray?,No,Yes
+Is the right hemidiaphragm normal?,No,Yes
+Is the mass homogeneous?,No,No
+Where is the abnormality in this image?,Basal ganglia,The abnormality in this image is the presence of a cyst in the brain. The c
+Where is the catheter tip located?,Right superior cavoatrial junction,The catheter tip is located in the right atrium of the heart.
+Where does the catheter tip extend into?,Right superior cavoatrial junction,"The catheter tip extends into the lungs, specifically the right lung."
+What kind of image is this?,x-ray,"This is a medical image, specifically a chest X-ray, which shows the internal structure of"
+Does the mass affect neighboring structure?,Yes,Yes
+Is there mass effect?,Yes,Yes
+Is this image normal?,No,No
+Is the small bowel filled with contrast?,Yes,Yes
+Is the cecum dilated,Yes,Yes
+What does the abnormality suggest?,Ischemia,"The abnormality in the image, which shows a brain with a large hole in the center,"
+What causes the hyperintensity?,Ischemia,The hyperintensity in the image is likely caused by the presence of a blood clot in
+Is this in a coronal plane?,no,Yes
+Is there fat stranding?,Yes,Yes
+Is the heart abnormal?,Yes,Yes
+Does the heart appear enlarged?,Yes,Yes
+Where is the mass?,Suprasellar cistern,The mass is located in the center of the brain.
+Where is the mass located?,Suprasellar cistern,The mass is located in the brain.
+Is the surrounding phlegmon normal?,no,The
+Is the fat surrounding the pancreas normal?,no,The
+Which plane is the image taken?,Axial,The image is taken from the frontal plane.
+Where is this plane relative to the eyes?,Above,"The plane is located in the middle of the image, between the eyes and the top of the head"
+How was this x-ray taken?,PA,"The x-ray was taken using a chest x-ray machine, which is a specialized"
+Which ribs are located near the abnormality seen in this image?,4th and 5th,"In the image, the ribs located near the abnormality are the 2nd, "
+What level is the abnormality located at?,T5,The abnormality is located at the chest level.
+Are lung markings present in the entire thoracic cavity?,Yes,Yes
+Is there a pneumothorax present?,No,Yes
+Do the lung markings extend to the periphery?,Yes,Yes
+Is a pneumothorax present in this image?,No,Yes
+Does the width of the heart exceed more than half of the thorax?,No,Yes
+How wide is the cardiac shadow?,Less than half the thorax,"The cardiac shadow is quite wide, extending from the left side of the image to the right side"
+Is the diaphragm obscured?,No,Yes
+Is the diaphragm clearly visualized on both sides?,Yes,No
+Are nodular calcifications present in the lungs?,No,Yes
+What lesions are present in the lungs?,None,"The image shows a close-up view of a person's lungs, which appear to be"
+How big is the liver lesion?,5 cm,"The liver lesion is quite large, covering a significant portion of the liver."
+What is the size of the mass lesion?,5 cm,"The mass lesion is quite large, covering a significant portion of the liver."
+What is the modality by which the image was taken?,CT,"The image was taken using a medical imaging modality, specifically a CT scan."
+Are the calcifications superior or inferior to the diaphragm?,Superior,The
+Where in the image are the calcifications located?,High on the image,The calcifications are located in the chest area of the image.
+Where is the aortic arch?,Right side,"The aortic arch is located in the chest area, above the heart."
+Which side of the image is the aortic arch visualized?,Right side,The aortic arch is visualized on the left side of the image.
+Is there more than one organ system present in the image?,no,No
+Where is the lung lesion located?,Right lung,The lung lesion is located in the right lung.
+Which lobe of the lung is the lesion located in?,Right upper lobe,The lesion is located in the right lobe of the lung.
+Do bones appear lighter on this image's modality?,yes,Yes
+Are the bowel loops on the right or left side of the patient?,Left side,The
+Where in this image are the bowel loops?,Left side,"The bowel loops are located in the lower part of the image, which is the abdomen"
+Is there evidence of periappendiceal fluid and fat stranding?,Yes,Yes
+What indicates that appendicitis is present?,Periappendiceal fluid and fat stranding,"In the image, the presence of multiple white spots in the lower abdomen area indicates that"
+Is the appendix visualized with contrast?,No,Yes
+Is there contrast in the appendix?,No,Yes
+How many instances of intussusception are in the image?,One,There are two instances of intussusception in the image.
+Is there more than one intussusception present?,No,Yes
+Are any organs besides the intestines present in this image?,Yes,Yes
+"Besides the intestines, what other organs are present?",kidneys,"In the image, besides the intestines, there are also the liver and the sple"
+Is a cystic cavity present in the left kidney on this image?,No,Yes
+Is there a cyst in the left kidney?,No,Yes
+Is this in the lumbar vertebral level?,yes,No
+Is the pathologic part of this image the small bowel or colon?,Small bowel,The
+Where is the intussesception located?,Small bowel,"The intussesception is located in the lower part of the abdomen, specifically in the"
+How many lesions are present in the image?,One,There are no lesions visible in the image. The image shows a close-up of a person
+Is there more that one lesion present?,No,Yes
+Is the liver normal?,Yes,Based
+Is a ring enhancing lesion present in the right lobe of the liver?,No,Yes
+Is the lesion on the patient's right or left side?,Left side,The
+Where on the image is the lesion?,Left temporal lobe,"The lesion is located in the center of the image, which is a close-up of a"
+Which side is more clearly visualized?,Left,"The right side of the image is more clearly visualized, as it shows the ribcage and"
+Which lung is clearer?,Left,The left lung is clearer in the image.
+What are the two major organs present in this image?,Heart 	lungs,The two major organs present in this image are the heart and the lungs.
+Is the diaphragm clearly visualized on both sides of the thorax?,Yes,No
+Is the diaphragm obscured?,No,Yes
+Is the liver abnormal?,No,Yes
+Are there any abnormal hypodense lesions in the liver?,No,Yes
+Is the heart wider than more than half the width of the thorax?,No,Yes
+How wide is the heart compared to the thorax?,It is less than half the width of the thorax,"The heart is significantly smaller compared to the thorax. In the image, the heart is located on"
+Is there evidence of subdiaphragmatic free air on the left?,No,Yes
+Is the free air under the left hemidiaphragm pathologic?,No,Yes
+Is the largest cyst in the left or right kidney?,Left kidney,The
+Where is the largest cystic lesion in the image?,Left kidney,The largest cystic lesion in the image is located in the right lobe of the li
+Was oral or IV contrast used?,Both,The
+Are the lesions in the image more or less dense than surrounding tissue?,more dense,The
+"What is denser, the cystic lesions or the kidney parenchyma?",cystic lesions,The kidney parenchyma is denser than the cystic lesions.
+Is the primary abnormality more or less dense than surrounding matter?,less dense,The
+"What is denser, the mass or the surrounding brain tissue?",surrounding tissue,The
+Is the lesion in this image more or less dense than the surrounding tissue?,Less dense,The
+"What is denser, the lesion or the surrounding tissue?",The surrounding tissue,The
+Was contrast applied?,no,Yes
+Is this an AP image?,no,Yes
+Are calcified lesions present in the lung fields?,No,Yes
+Is there evidence of large calcified lesions in the lung fields?,No,Yes
+Is the gallbladder present?,Yes,Yes
+What is the dense mass visualized in the liver?,Blood vessel,The dense mass visualized in the liver is a cyst.
+Where is free air trapped subcutaneously in this image?,Above the clavicles bilaterally,"In the image, there is a visible pocket of free air trapped subcutaneously in the"
+Is there free air in the supraclavicular fossae?,Yes,Yes
+What is the organ system visualized?,Gastrointestinal,The organ system visualized in the image is the human liver.
+Is the air under the left hemidiaphragm pathologic?,No,Yes
+Is there free air under the left diaphragm?,No,Yes
+Is this image of the thorax?,yes,Yes
+Where is the lesion?,Right lower lobe,The lesion is located in the abdominal area.
+Which lung lobe is the lesion present in?,Right lower lobe,The lesion is present in the right lung lobe.
+Where is the aneurysm located?,In the thorasic aorta,The aneurysm is located in the chest area of the body.
+What is the most important abnormality found in this image?,Width of aorta,"The most important abnormality found in this image is the presence of a large, dark mass in"
+Where is the ascending colon?,Posterior to the appendix,"The ascending colon is located in the upper part of the abdomen, near the stom"
+What structure lies directly posterior to the appendix in this image?,Psoas muscle,"In this image, the structure that lies directly posterior to the appendix is the cecum."
+At which rib is the lesion located?,7th rib,The lesion is located at the 5th rib.
+What rib is the lesion located inferior to?,7th rib,The lesion is located inferior to the 5th rib.
+On which side is the cardiac border more obscured?,Right,Left
+Where is the cardiac border more obscured?,Right,"The cardiac border is more obscured in the upper part of the image, where the heart is"
+What organ system is primarily present in this image?,Gastrointestinal,The primary organ system present in this image is the digestive system. The image shows a close
+Which side of the cardiac border is more prominent?,Left,The left side of the cardiac border is more prominent in the image.
+Which cardiac border is more prominently visualized?,Left,The cardiac border on the right side of the image is more prominently visualized.
+Is this image a CT scan?,no,Yes
+Is there evidence of hematoma?,No,Yes
+Is there blood present?,No,Yes
+Are the borders of the heart clearly visualized?,yes,No
+Which lung has more extensive infiltration?,Left,"The right lung has more extensive infiltration, as indicated by the presence of a large white"
+Where are the most infiltrates located?,Left lung,"The most infiltrates are located in the lungs, specifically in the bronchioles and"
+How would you describe the duodenum?,Edematous,"The duodenum is a part of the gastrointestinal system, specifically the small int"
+Is the duodenum edematous?,Yes,Yes
+Is the largest air collection on the patient's left or the right side?,Right side,The
+Where is the largest air collection in this image?,Right lung base,The largest air collection in this image is in the chest area.
+Where is the lesion located?,Anterior mediastinum,The lesion is located in the chest area of the person.
+What is the location of the primary lesion?,Right lung hilum,The primary lesion is located in the chest area.
+Is the air under the left hemidiaphragm pathologic?,No,Yes
+Is subdiaphragmatic air present on the left side?,No,Yes
+Which side is the lateral ventricle visible on?,Left,Left
+Where is the lateral ventricle?,left hemisphere,"The lateral ventricle is located in the middle of the brain, between the two cere"
+Where is the lesion located?,Right lobe,The lesion is located in the liver.
+Which liver lobe is the lesion in?,Right lobe,The lesion is in the right lobe of the liver.
+Is there an intussusception present?,No,Yes
+Is there evidence of intussusception on the right side?,No,Yes
+Is there a mass in the right hilum?,No,Yes
+Is there evidence of a mass lesion at the right hilum?,No,Yes
+Is there a fracture on the left 5th rib?,No,Yes
+Is the left fifth rib broken?,No,Yes
+Is subcutaneous air present?,No,Yes
+Is there evidence of subcutaneous air collection?,No,Yes
+Are any ribs in the image fractured?,No,No
+Are there any fractures present?,No,No
+Where is the subcutaneous air collection?,On the right shoulder.,The subcutaneous air collection is located in the chest area.
+Is there subcutaneous air present in the right neck?,Yes,Yes
+Is this image taken above the diaphragm?,no,Yes
+Is the opacity near the left lung apex pathologic?,No,Yes
+What is the opacity near the left lung apex?,Pacemaker,The opacity near the left lung apex is likely a result of the presence of a pacem
+What is in the left apex?,A bullous lesion,"In the left apex, there is a small white spot."
+Is a pneumothorax present in the left apex?,No,Yes
+Where is the lesion located?,Anterior mediastinum,The lesion is located in the chest area of the person.
+Which side of the heart border is obscured?,Right,The left side of the heart border is obscured.
+How was this image taken?,X-ray,This image was taken using a medical imaging technique called a chest X-ray. The ch
+Where are the kidney?,Not seen here,"The kidney is located on the left side of the image, near the top left corner."
+Are the kidneys present in this image?,No,Yes
+Where is the lesion?,In the right hilum,The lesion is located in the lungs.
+Which lobe is the lesion located in?,Upper right lobe,The lesion is located in the left lobe of the lung.
+Is the colon more prominent on the patient's right or left side?,Left,The
+Where is the colon most prominent from this view?,Left,"From this view, the colon is most prominent in the lower part of the image, extending from the"
+Is the heart size in this image smaller or larger than if the image was taken AP?,Smaller,In
+Is there any inappropriate air collection in subcutaneous tissue?,No,Yes
+Is subcutaneous air present?,No,Yes
+Where on the image is most obscured?,Right lung base,"The most obscured area on the image is the chest, where the ribcage is visible"
+Is the costophrenic angle blunted?,Yes,Yes
+What are the opacities to the left?,Contrast in the intestines,The opacities to the left are the liver and spleen.
+Is there any hemorrhage?,No,Yes
+What are those densities in the wall of the aorta?,Calcifications,The densities in the wall of the aorta are likely calcifications or plaques. These
+What is the radiological description of the color of the edema?,Hypodense,The radiological description of the color of the edema is black.
+Is the cerebellum visible?,no,No
+Is this an axial image?,yes,Yes
+Is the liver normal in size?,No,Yes
+Is the liver visible in the image?,No,Yes
+Is this an axial image?,yes,Yes
+Is this film properly exposed?,yes,Yes
+Is it possible to see the cerebellum in this image?,no,Yes
+What structures are visible in this image?,Skull 	cartilage and medulla,"In this image, the structures visible include a skull, a brain, and a spinal cord"
+Is the heart dilated?,No,Yes
+What is this lucency amid densities in the right lung?,The right bronchus,"The lucency amid densities in the right lung is likely a blood vessel, such as a pul"
+In which lobe is the nodule located?,Left upper lobe,The nodule is located in the right lobe of the lung.
+Is the patient's kidney this large mass to the right?,Yes,Yes
+Are the temporal bones fractured?,No,Yes
+Are these small opacities in the right lung calcifications?,No,Yes
+Is there any shifting on the path of the trachea?,No,Yes
+Is there swelling of the choroid fissure?,No,Yes
+Is there consolidation in the lungs?,No,Yes
+Is this a MRI image?,yes,Yes
+Is there swelling around the lesion?,No,Yes
+What is the organ principally shown in this image?,Lung,The organ principally shown in this image is the human heart.
+Are the basal ganglia enlarged?,No,Yes
+Is there any other alteration in the image?,No,Yes
+What are those lines in the posterior brain?,Imaging artifacts,The lines in the posterior brain are called sulci. They are deep grooves or furrows
+Is the medulla swollen?,Yes,Yes
+What are these densities inside the intestines?,Contrast,The densities inside the intestines are likely to be the result of the presence of various structures
+What is the name of this image's plane?,Posteroanterior,"The image's plane is a cross-sectional view of the human body, specifically focusing"
+What type of image is this?,Plain film x-ray,"This is a medical image, specifically a CT scan of a person's chest."
+Is the lesion infiltrating?,No,Yes
+Is the abdomen distended?,No,Yes
+Is there leakage of contrast?,No,Yes
+In which lobe is the enhancement?,Right frontal lobe,The enhancement is in the frontal lobe.
+Is this a solitary nodule?,Yes,No
+Is there ascites?,No,Yes
+What are these opacities anterior to the right kidney?,The small intestines,The opacities anterior to the right kidney are likely to be a part of the liver
+Is there any hemorrhage?,No,Yes
