@@ -9,6 +9,7 @@ from PIL import Image
 from transformers import AutoProcessor, LlavaForConditionalGeneration
 
 
+os.environ["TOKENIZERS_PARALLELISM"] = "false"
 class LLava:
     def __init__(self, dataset):
         self.dataset =dataset
@@ -24,7 +25,7 @@ class LLava:
         self.data = json.load(open(os.path.join(dataset, "VQA_RAD_Dataset_Public.json"), 'r'))
 
     def save_csv(self, answer, question, prediction):
-        with open("result/predict_1.csv", "w") as csv_file:
+        with open("result/predict_3.csv", "w") as csv_file:
             writer = csv.writer(csv_file, delimiter=',')
             writer.writerow(["question", "answer", "prediction"])
 
@@ -35,12 +36,12 @@ class LLava:
     def evaluate(self, model):
         answers, questions, predictions = [], [], []
 
-        for idx, sample in tqdm(enumerate(self.data[0: 500])):
+        for idx, sample in tqdm(enumerate(self.data[0: 2])):
             # sample = self.data[idx]
             img_path = os.path.join(self.image_dir, sample['image_name'])
             image = Image.open(img_path).convert("RGB")
             question = sample["question"]
-            prompt = "USER: <analysis_image>\n%s \nASSISTANT:" % question
+            prompt = "USER: <image>\n%s \nASSISTANT:" % question
             inputs = self.processor(text=prompt, images=image, return_tensors="pt")
             if sample["answer_type"] == "CLOSED":
                 # usually closed question has only one token answer
